@@ -12,6 +12,8 @@ Here are some of the technologies I work with:
 [![Express][Express.js]][Express-url]
 [![Node.js][Node.js]][Node.js-url]
 [![Prisma][Prisma]][Prisma-url]
+[![Jest][Jest]][Jest-url]
+[![Jasmine][Jasmine]][Jasmine-url]
 [![HTML5][HTML5]][HTML5-url]
 [![CSS3][CSS3]][CSS3-url]
 
@@ -20,8 +22,8 @@ I'm currently open to new opportunities! If you're interested, let's chat and ge
 
 ## 🌐 Connect with Me
 [![Portfolio][Portfolio]][Portfolio-url]
-[![LinkedIn][LinkedIn]][LinkedIn-url]
 [![Email][Email]][Email-url]
+[![LinkedIn][LinkedIn]][LinkedIn-url]
 [![Instagram][Instagram]][Instagram-url]
 
 <!-- Tech Stack Links -->
@@ -42,6 +44,12 @@ I'm currently open to new opportunities! If you're interested, let's chat and ge
 
 [Prisma]: https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
 [Prisma-url]: https://www.prisma.io/
+
+[Jest]: https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+[Jest-url]: https://jestjs.io/
+
+[Jasmine]: https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white
+[Jasmine-url]: https://jasmine.github.io/
 
 [HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
