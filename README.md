@@ -1,10 +1,12 @@
 <div align="center">
 
-![](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
+![b340423c-9844-45d3-820e-5f2999004818](https://github.com/user-attachments/assets/46ace7cd-8776-43f5-9aeb-9b66b98d198c)
 
-# Hello, I'm Leonardo 👋
+# Hello, I'm Leonardo 🖖
 
-A full-stack software developer that loves to play chess when not coding.
+A dedicated Full-Stack Software Developer that loves to play chess when not coding.
+
+### Get In Touch
 
 [![Portfolio][Portfolio]][Portfolio-url]
 [![LinkedIn][LinkedIn]][LinkedIn-url]
