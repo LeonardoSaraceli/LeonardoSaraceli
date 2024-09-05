@@ -1,5 +1,7 @@
 <div align="center">
 
+![](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
+
 # Hello, I'm Leonardo 👋
 
 A full-stack software developer that loves to play chess when not coding.
@@ -22,12 +24,12 @@ A full-stack software developer that loves to play chess when not coding.
 
 </div>
 
+[Portfolio]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
+[Portfolio-url]: https://leonardolodi.vercel.app/
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/leonardo-saraceli-almeida-lodi/
 [CV]: https://img.shields.io/badge/Download%20CV-4A90E2?style=for-the-badge&logo=google-drive&logoColor=white
 [CV-url]: https://leonardolodi.vercel.app/assets/LeonardoLodiResume-DOMfgXas.pdf
-[Portfolio]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
-[Portfolio-url]: https://leonardolodi.vercel.app/
 [JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JavaScript-url]: https://www.javascript.com
 [React]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
@@ -48,5 +50,3 @@ A full-stack software developer that loves to play chess when not coding.
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[Email]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[Email-url]: mailto:leonardolodi09@gmail.com
