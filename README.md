@@ -31,7 +31,7 @@ A dedicated Full-Stack Software Developer that loves to play chess when not codi
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/leonardo-saraceli-almeida-lodi/
 [CV]: https://img.shields.io/badge/Download%20CV-4A90E2?style=for-the-badge&logo=google-drive&logoColor=white
-[CV-url]: https://leonardolodi.vercel.app/assets/LeonardoLodiResume-DOMfgXas.pdf
+[CV-url]: https://leonardolodi.vercel.app/assets/LeonardoLodiResume-C0GsXvCt.pdf
 [JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JavaScript-url]: https://www.javascript.com
 [React]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
