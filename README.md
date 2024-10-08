@@ -24,6 +24,12 @@ A dedicated Full-Stack Software Developer that loves to play chess when not codi
 [![HTML][HTML]][HTML-url]
 [![CSS][CSS]][CSS-url]
 
+### Learning Technologies
+[![Docker][Docker]][Docker-url]
+[![Python][Python]][Python-url]
+[![Next.js][Nextjs]][Nextjs-url]
+[![TypeScript][TypeScript]][TypeScript-url]
+
 </div>
 
 [Portfolio]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
@@ -52,3 +58,11 @@ A dedicated Full-Stack Software Developer that loves to play chess when not codi
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org
+[Nextjs]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Nextjs-url]: https://nextjs.org
+[TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org
