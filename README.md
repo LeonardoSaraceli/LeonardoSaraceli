@@ -18,6 +18,8 @@ A dedicated Full-Stack Software Developer that loves to play chess when not codi
 [![Node.js][Nodejs]][Nodejs-url]
 [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 [![Express][Express]][Express-url]
+[![TypeScript][TypeScript]][TypeScript-url]
+[![Next.js][Nextjs]][Nextjs-url]
 [![Prisma][Prisma]][Prisma-url]
 [![Jasmine][Jasmine]][Jasmine-url]
 [![Jest][Jest]][Jest-url]
@@ -25,10 +27,9 @@ A dedicated Full-Stack Software Developer that loves to play chess when not codi
 [![CSS][CSS]][CSS-url]
 
 ### Learning Technologies
+[![Angular][Angular]][Angular-url]
 [![Docker][Docker]][Docker-url]
 [![Python][Python]][Python-url]
-[![Next.js][Nextjs]][Nextjs-url]
-[![TypeScript][TypeScript]][TypeScript-url]
 
 </div>
 
@@ -66,3 +67,5 @@ A dedicated Full-Stack Software Developer that loves to play chess when not codi
 [Nextjs-url]: https://nextjs.org
 [TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org
+[Angular]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io
