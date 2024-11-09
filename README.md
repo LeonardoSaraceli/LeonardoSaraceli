@@ -28,6 +28,7 @@ A dedicated Full-Stack Software Developer that loves to play chess when not codi
 
 ### Learning Technologies
 [![PHP][PHP]][PHP-url]
+[![React Native][ReactNative]][ReactNative-url]
 
 </div>
 
@@ -63,3 +64,5 @@ A dedicated Full-Stack Software Developer that loves to play chess when not codi
 [TypeScript-url]: https://www.typescriptlang.org
 [PHP]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 [PHP-url]: https://www.php.net
+[ReactNative]: https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black
+[ReactNative-url]: https://reactnative.dev
