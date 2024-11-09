@@ -4,7 +4,7 @@
 
 # Hello, I'm Leonardo 🖖
 
-A dedicated Full-Stack Software Developer that loves to play chess when not coding.
+A dedicated Full Stack Software Developer that loves to play chess when not coding.
 
 ### Get In Touch
 
