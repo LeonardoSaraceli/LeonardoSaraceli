@@ -29,6 +29,7 @@ A dedicated Full Stack Software Developer that loves to play chess when not codi
 ### Learning Technologies
 [![PHP][PHP]][PHP-url]
 [![React Native][ReactNative]][ReactNative-url]
+[![Python][Python]][Python-url]
 
 </div>
 
@@ -37,7 +38,7 @@ A dedicated Full Stack Software Developer that loves to play chess when not codi
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/leonardo-saraceli-almeida-lodi/
 [CV]: https://img.shields.io/badge/Download%20CV-4A90E2?style=for-the-badge&logo=google-drive&logoColor=white
-[CV-url]: https://leonardolodi.vercel.app/assets/LeonardoLodiCV-DDFaTwHm.pdf
+[CV-url]: https://leonardolodi.vercel.app/assets/LeonardoLodiCV-DmmyF7PN.pdf
 [JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JavaScript-url]: https://www.javascript.com
 [React]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
@@ -66,3 +67,5 @@ A dedicated Full Stack Software Developer that loves to play chess when not codi
 [PHP-url]: https://www.php.net
 [ReactNative]: https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black
 [ReactNative-url]: https://reactnative.dev
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
