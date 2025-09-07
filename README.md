@@ -45,7 +45,7 @@ A dedicated Software Developer that loves to play chess when not coding.
 [LinkedIn-url]: https://www.linkedin.com/in/leolodi/
 
 [CV]: https://img.shields.io/badge/Download%20CV-4A90E2?style=for-the-badge&logo=google-drive&logoColor=white
-[CV-url]: https://leonardolodi.vercel.app/assets/Leonardo%20Lodi%20CV-Dov4ZcTK.pdf
+[CV-url]: https://leonardolodi.vercel.app/assets/Leonardo_Lodi_CV-CWJvD0s4.pdf
 
 [JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JavaScript-url]: https://www.javascript.com
